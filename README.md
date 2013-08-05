@@ -5,7 +5,7 @@ A collection of useful plug and play mixins for the [Sass Language](http://sass-
 
 Just include the file into your project:
 ```css
-	@import "sass-mixins";
+@import "sass-mixins";
 ```
 
 Examples
