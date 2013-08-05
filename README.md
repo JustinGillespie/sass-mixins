@@ -40,14 +40,14 @@ Media Query
 
 Media Query (Max-Width)
 ```css
-@include break-max(700px) {
+@include break-max(700px){
 	/* Custom CSS Styles */
 }
 ```
 
 Media Query (Min-Width)
 ```css
-@include break-min(700px) {
+@include break-min(700px){
 	/* Custom CSS Styles */
 }
 ```
