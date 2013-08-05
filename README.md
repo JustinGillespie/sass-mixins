@@ -3,6 +3,11 @@ Helpful Sass Mixins
 
 A collection of useful plug and play mixins for the [Sass Language](http://sass-lang.com/) from the [PRPL](http://www.prpl.rs/) Dev team.
 
+Just include the file into your project:
+```css
+	@import "sass-mixins";
+```
+
 Examples
 ----------------------------------
 
@@ -16,7 +21,7 @@ Full page fixed background
 @include background-cover('path/to/file.jpg')
 ```
 
-Border-box Sizing (http://bit.ly/10kDnEz)
+Border-box Sizing (More Info: http://bit.ly/10kDnEz)
 ```css
 @include border-box()
 ```
@@ -28,30 +33,36 @@ Element Shadow
 
 Media Query
 ```css
-@include break-min('min-width: 321px'){ Custom CSS Styles }
+@include break-min('min-width: 321px'){
+	/* Custom CSS Styles */
+}
 ```
 
 Media Query (Max-Width)
 ```css
-@include break-max(700px){ Custom CSS Styles }
+@include break-max(700px) {
+	/* Custom CSS Styles */
+}
 ```
 
 Media Query (Min-Width)
 ```css
-@include break-min(700px){ Custom CSS Styles }
+@include break-min(700px) {
+	/* Custom CSS Styles */
+}
 ```
 
-Clear Floats (http://bit.ly/evOPw5)
+Clear Floats (More Info: http://bit.ly/evOPw5)
 ```css
 @include clearfix()
 ```
 
-REM Font Sizing (http://bit.ly/IhXzmm)
+REM Font Sizing (More Info: http://bit.ly/IhXzmm)
 ```css
 @include hide-text()
 ```
 
-Text Replacement (http://bit.ly/Asq62d)
+Text Replacement (More Info: http://bit.ly/Asq62d)
 ```css
 @include hide-text()
 ```
@@ -82,7 +93,7 @@ Opacity
 ```
 
 CSS3 Rounded Corners
-E```css
+```css
 @include rounded-corners(10px)
 ```
 
