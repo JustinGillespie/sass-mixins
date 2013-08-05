@@ -105,11 +105,11 @@ CSS3 Animation Transition
 Contributors
 ----------------------------------
 
-Justin Gillespie ([@jgillespie_](https://twitter.com/jgillespie_))
-Dan Morgan ([@xDanMorgan](https://twitter.com/xDanMorgan))
-Grant Standridge ([@grantstandridge](https://twitter.com/grantstandridge))
-Mark Malta ([@mark_malta](https://twitter.com/mark_malta))
-Aaron Fischer ([@aaronfischer](https://twitter.com/aaronfischer))
+Justin Gillespie ([@jgillespie_](https://twitter.com/jgillespie_))  
+Dan Morgan ([@xDanMorgan](https://twitter.com/xDanMorgan))  
+Grant Standridge ([@grantstandridge](https://twitter.com/grantstandridge))  
+Mark Malta ([@mark_malta](https://twitter.com/mark_malta))  
+Aaron Fischer ([@aaronfischer](https://twitter.com/aaronfischer))  
 
 
 
